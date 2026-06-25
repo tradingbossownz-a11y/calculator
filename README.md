@@ -4,6 +4,8 @@ A polished Spanish tax calculator (IVA, autónomo quarterly payment, gross→net
 
 **▶ Live demo:** https://calculator-two-lyart-21.vercel.app
 
+![Calculadora Fiscal ES screenshot](assets/screenshot.png)
+
 ## What it does
 
 - **IVA** — base + rate → cuota and total.
