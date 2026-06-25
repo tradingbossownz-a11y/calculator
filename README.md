@@ -2,7 +2,7 @@
 
 A polished Spanish tax calculator (IVA, autónomo quarterly payment, gross→net salary) with an **"explain in plain language" button** powered by Claude — in Dutch, Spanish or English.
 
-**▶ Live demo:** _add your Vercel URL here_
+**▶ Live demo:** https://calculator-two-lyart-21.vercel.app
 
 ## What it does
 
